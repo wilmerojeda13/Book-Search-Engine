@@ -9,7 +9,7 @@ import {REMOVE_BOOK} from '../utils/mutations'
 
 const SavedBooks = () => {
 const {loading, data} = useQuery(Query_ME);
-const [removeBook, {error}] = useMutation(REMOVE_BOOK)
+const [removeBook] = useMutation(REMOVE_BOOK)
 const userData = data?.me || {}
 
 
