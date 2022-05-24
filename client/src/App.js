@@ -4,7 +4,7 @@ import SearchBooks from './pages/SearchBooks';
 import SavedBooks from './pages/SavedBooks';
 import Navbar from './components/Navbar';
 import {ApolloProvider} from '@apollo/react-hooks'
-import {ApolloClient} from 'apollo-boost'
+import ApolloClient from 'apollo-boost'
 
 //start function for apollo client thats store date and their particular token by its id
 const client = new ApolloClient({
@@ -17,8 +17,8 @@ const client = new ApolloClient({
       },
     });
   },
-  uri: 'graphql',
-})
+  uri: '/graphql',
+});
 
 
 function App() {
