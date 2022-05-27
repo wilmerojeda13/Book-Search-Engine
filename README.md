@@ -14,7 +14,7 @@ We are going to used npm install in the root folder of the project and ti will  
 
 
 ## Usage:
-We used the project by cloning the repo and and start the project by installing the dependencies using npm i, and then your going to go to the root folder of the project  and do a npm start  to display the server http://localhost:3000/ in the browser
+We used the project by cloning the repo and and start the project by installing the dependencies using npm i in the root folder of the project,  and do a npm start  to display the server http://localhost:3000/ in the browser
 
 
 ## References:
