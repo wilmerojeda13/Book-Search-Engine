@@ -7,14 +7,14 @@
 - [Screenshot](#screenshot)
 
 ## Description:
-Project based on creating an React Portfolio that showcase 6 of my full stack developer projects and also contains an about me section, Contact and Resume where you can download it  in pdf format
+Project based on creating an Function Google Books API engine which is build with RESTful API that renders any book by clicking the Search Bar and also once your login to your account you can saved and deleted books as your preference. The API was build with Apollo Server and also we used The MERN stack with REACT front end, MongoDB database, Node.js and Express.js
 
 ## Installation:
-We are going to used npm install in the terminal  to install all the packages needed.
+We are going to used npm install in the root folder of the project and ti will  to install all the packages needed.
 
 
 ## Usage:
-We used the project by cloning the repo and and start the project by installing the dependencies using npm i, and then your going to go to the root folder of the project  and do a npm start  to display the server http://localhost:3001/ in the browser
+We used the project by cloning the repo and and start the project by installing the dependencies using npm i, and then your going to go to the root folder of the project  and do a npm start  to display the server http://localhost:3000/ in the browser
 
 
 ## References:
@@ -31,7 +31,7 @@ Yes you can contribute to the project by sending me  an email.
 
 
 ## Testing:
-You can test the project by cloning the repository and start the project by installing the dependencies using npm i, and the next step your going to go the terminal and type npm start to run the project.
+You can test the project by cloning the repository and start the project by installing the dependencies in the root folder of the project using npm i, and the next step your going to go the terminal and type npm start to run the project.
 
 
 ## Screenshot:
